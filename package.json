@@ -1,0 +1,6 @@
+{
+  "name": "koaoak",
+  "version": "1.0.0",
+  "main": "./koa/lib/application.js",
+  "license": "MIT"
+}
