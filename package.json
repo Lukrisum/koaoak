@@ -1,6 +1,11 @@
 {
   "name": "koaoak",
   "version": "1.0.0",
+  "description": "write me a koa",
+  "author": "@Lukrisum",
+  "homepage": "https://github.com/Lukrisum/koaoak",
+  "repository": "Lukrisum/koaoak",
+  "bugs": "https://github.com/Lukrisum/koaoak/issues",
   "main": "./lib/application.js",
   "license": "MIT"
 }
